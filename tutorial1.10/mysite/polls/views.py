@@ -8,5 +8,5 @@ def index(request):
 def hello(request):
     return HttpResponse('Hello')
 
-def hello2(request):
-    return HttpResponse('Hello2')
+def hello4(request):
+    return HttpResponse('Hello4')
